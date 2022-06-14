@@ -24,6 +24,7 @@ public class Prueba1 {
         System.out.println("HOLA, DESDE OTRA CUMPU AJENA XDDD");
         System.out.println("PROFE APRUEBENOS esto no es un meme xdddd");
         System.out.println("Probando traer archivo desde github a la otra compu");
+        System.out.println("un mensaja segun el julios");
         
     }
     

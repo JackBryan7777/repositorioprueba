@@ -22,7 +22,7 @@ public class Prueba1 {
         System.out.println("Hola ,estoy modificando desde GitHub");
         System.out.println("Que onda pa, te hackearon xddd");
         System.out.println("HOLA, DESDE OTRA CUMPU AJENA XDDD");
-        System.out.println("PROFE APRUEBENOS O ME MATO");
+        System.out.println("PROFE APRUEBENOS esto no es un meme xdddd");
         
     }
     
